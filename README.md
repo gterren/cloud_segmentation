@@ -41,3 +41,7 @@ See XX for further information.
 ## Utils for Data Processing 
 
 The utils for loading, organized the vectors and matrices, processing the data, and common dependecies are in the files utils.py and feature_extraction_utils.py.
+
+## Dataset
+
+A sample dataset is publicaly available in DRYAD repository: https://datadryad.org/stash/dataset/doi%253A10.5061%252Fdryad.zcrjdfn9m
