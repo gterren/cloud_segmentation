@@ -35,4 +35,4 @@ Unsupervised Gaussian MRF optimized via Independet Conditional Models with Simul
 
 ## Utils for Data Processing 
 
-The utils for loading, organized the vectors and matrices, processing the data, and common dependecies are in the files utils.py and 
+The utils for loading, organized the vectors and matrices, processing the data, and common dependecies are in the files utils.py and feature_extraction_utils.py.
