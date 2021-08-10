@@ -6,7 +6,7 @@ Codes for cloud segmentation in ground-based infrared sky images adquiared using
 
 The generative models include in this repository are: 
 
-Gaussian Mixture Model is GMM_segm.py.
+Gaussian Mixture Model (clustering) is GMM_segm.py.
 
 K-means Clustering is KMS_segm.py.
 
