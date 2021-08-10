@@ -22,7 +22,7 @@ Ridge Regression for Classification is RRC_segm.py.
 
 Suport Vector Machine is SVC_segm.py.
 
-Gaussian Process for Classification cross-validated in parallel using is GPC-MPI_segm.py.
+Gaussian Process for Classification cross-validated in parallel using MPI is GPC-MPI_segm.py.
 
 ## Markov Random Fields
 
