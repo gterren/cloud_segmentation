@@ -19,14 +19,16 @@ Naive Bayes Classifier is NBC_segm.py.
 The discriminative model were implemented in their primal formulation. The features were transformed to a feature space using split basis functions. See .
 
 Ridge Regression for Classification is RRC_segm.py.
+
 Suport Vector Machine is SVC_segm.py.
+
 Gaussian Process for Classification cross-validated in parallel using is GPC-MPI_segm.py.
 
 ## Markov Random Fields
 
-Unsupervised Gaussian MRF optimized via Independet Conditional Models cross-validated in parallel using MPI is ICM-MRF-MPI_segm.py.
-
 Supervised Gaussian MRF is MRF_segm.py.
+
+Unsupervised Gaussian MRF optimized via Independet Conditional Models cross-validated in parallel using MPI is ICM-MRF-MPI_segm.py.
 
 Supervised Gaussian MRF with Simulate Anneling on the implementation is SA-MRF_segm.py.
 
