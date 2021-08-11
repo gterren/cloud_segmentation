@@ -2,6 +2,12 @@
 
 Codes for cloud segmentation in ground-based infrared sky images adquiared using an sky imager mounted on a solar tracker. The codes were run in a High Performances Computer and the library for the paralellization of the code is MPI. See XX.
 
+https://arxiv.org/pdf/2012.06930.pdf
+
+CEEGE https://arxiv.org/pdf/2102.06646.pdf
+
+IEEE PES https://arxiv.org/pdf/2102.10151.pdf
+
 ## Generative Models
 
 The generative models include in this repository are: 
