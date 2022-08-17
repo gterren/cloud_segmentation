@@ -22,7 +22,7 @@ Naive Bayes Classifier is NBC_segm.py.
 
 ## Discriminative Models
 
-The discriminative model were implemented in their primal formulation. The features were transformed to a feature space using split basis functions. See XX.
+The discriminative model were implemented in their primal formulation. The features were transformed to a feature space using split basis functions. See GDA_segm.
 
 Ridge Regression for Classification is RRC_segm.py.
 
