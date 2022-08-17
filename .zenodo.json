@@ -1,0 +1,50 @@
+{
+    "description": "<p>Codes for cloud segmentation in ground-based infrared sky images adquiared using an sky imager mounted on a solar tracker. The codes run in a High Performances Computer. The library for the paralellization is MPI.</p><p>See journal article: <a href='https://www.sciencedirect.com/science/article/pii/S0960148121006674'>https://www.sciencedirect.com/science/article/pii/S0960148121006674</a></p><p>See CEEGE conference article: <a href='https://www.sciencedirect.com/science/article/pii/S2352484721006235'>https://www.sciencedirect.com/science/article/pii/S2352484721006235</a></p><p>See IEEE PES ISGT conference article: <a href='https://ieeexplore.ieee.org/document/9639922'>https://ieeexplore.ieee.org/document/9639922</a></p><p>See realated data: <a href='https://doi.org/10.5061/dryad.zcrjdfn9m'>https://doi.org/10.5061/dryad.zcrjdfn9m</a></p>", 
+    "license": "Apache-2.0", 
+    "title": "Girasol Machine Software and Data Processing Code", 
+    "upload_type": "software", 
+    "publication_date": "2022-08-17", 
+    "creators": [
+        {
+            "affiliation": "University of New Mexico", 
+            "name": "Guillermo Terrén-Serrano"
+        },
+        {
+            "affiliation": "University of New Mexico",
+            "name": "Manel Martínez-Ramón"
+        }        
+    ], 
+    "access_right": "open", 
+    "grants":[
+        {
+            "id": "10.13039/100000001::1757207"
+        }
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/gterren/cloud_segmentation", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5061/dryad.zcrjdfn9m", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.1016/j.egyr.2021.08.020", 
+            "relation": "isSupplementTo"
+        }
+              {
+            "scheme": "doi", 
+            "identifier": "10.1016/j.renene.2021.04.141", 
+            "relation": "isSupplementTo"
+        }
+        {
+            "scheme": "doi", 
+            "identifier": "10.1109/ISGTEurope52324.2021.9639922", 
+            "relation": "isSupplementTo"
+        }
+    ]
+}
