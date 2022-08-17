@@ -1,6 +1,6 @@
 # Cloud Segmentation
 
-Codes for cloud segmentation in ground-based infrared sky images adquiared using an sky imager mounted on a solar tracker. The codes were run in a High Performances Computer and the library for the paralellization of the code is MPI. See XX.
+Codes for cloud segmentation in ground-based infrared sky images adquiared using an sky imager mounted on a solar tracker. The codes were run in a High Performances Computer and the library for the paralellization of the code is MPI.
 
 https://arxiv.org/pdf/2012.06930.pdf
 
