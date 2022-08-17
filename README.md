@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/388954432.svg)](https://zenodo.org/badge/latestdoi/388954432)
+
 # Cloud Segmentation
 
 Codes for cloud segmentation in ground-based infrared sky images adquiared using an sky imager mounted on a solar tracker. The codes were run in a High Performances Computer and the library for the paralellization of the code is MPI.
